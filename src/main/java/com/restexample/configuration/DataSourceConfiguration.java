@@ -22,8 +22,8 @@ public class DataSourceConfiguration {
 	@Bean
 	public DataSource dataSource() throws SQLException{
 //		HikariDataSource dataSource = new HikariDataSource();
-//		dataSource.setUsername("haydaruser");
-//		dataSource.setPassword("111222");
+//		dataSource.setUsername("xxx");
+//		dataSource.setPassword("xxx");
 //		dataSource.setJdbcUrl("jdbc:postgresql://localhost:5432/testdatabase");
 //		dataSource.setConnectionTimeout(8000);
 //		return dataSource();
